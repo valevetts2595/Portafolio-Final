@@ -1,0 +1,71 @@
+
+/*Contenido la pagina*/
+a{
+	text-decoration: none;
+}
+.titulo{
+	margin-top: 10%;
+	color: white;
+}
+.titulo1{
+	margin:5%; 
+	
+}
+.margen{
+	width: 100%;
+	margin: 1%;
+}
+.espacio{
+	padding: 5%;
+}
+.espacio1{
+	padding: 1%;
+}
+.espacio2{
+	margin: 7%;
+}
+/*Redes Sociales en Especifico*/
+.caja{
+	margin: auto;
+	text-align: center;
+}
+.icon-button {
+	background-color: #005b96;
+	border-radius: 3em;
+	cursor: pointer;
+	display: inline-block;
+	height: 3em;
+	line-height: 3em;
+	position: relative;
+	width: 3em;
+	text-align: center;
+}
+
+.icon-button:hover  {
+    width: 3em;
+    height: 3em;
+    border-radius: 3em;
+   color: #b3cde0;
+}
+.palabra{
+	color: #18bc9c;
+}
+/*Footter Color*/
+.fondo{
+	background-color: #03396c;
+	color: #ffffff;
+}
+/*Elementos de la PAGINA DE ABOUT--+*/
+.titulo-imagen{
+	margin-top: 10%;
+	margin-left: 27%;
+}
+/*Elementos de la PAGINA DE BLOG--+*/
+.espacio1{
+	margin-top: 3%;
+}
+.titulos{
+	color: #18bc9c;
+	margin-top: 5%;
+	word-spacing: 10%;
+}
